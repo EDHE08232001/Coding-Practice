@@ -1,7 +1,7 @@
 from typing import List
 
 class LongestIncreasingSubsequence:
-    def longest_increasing_subsequence(self, nums: List[int]) -> int:
+    def longestIncreasingSubsequence(self, nums: List[int]) -> int:
         """
         Calculate the length of the longest increasing subsequence in a given list of integers.
 
